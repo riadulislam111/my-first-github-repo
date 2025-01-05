@@ -1,4 +1,9 @@
 div{
     background-color: crimson;
     margin: 10px;
+    
+}
+div{
+    padding-inline: 20px;
+
 }
